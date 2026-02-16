@@ -2,8 +2,6 @@ Task Scheduling System (Java)
 
 A console-based Task Scheduling System built in Java that schedules and executes tasks concurrently based on priority. The system uses a thread-safe priority queue and a fixed-size thread pool to efficiently manage task execution.
 
-This project focuses on clean design, concurrency, and performance rather than UI or persistence, making it ideal for backend/SDE interviews.
-
 ---
 
 ## Features
